@@ -1,3 +1,7 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> 51f9224 (F: customers and orgs updated)
 TheStartup
